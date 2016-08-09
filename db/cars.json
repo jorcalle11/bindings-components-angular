@@ -1,0 +1,23 @@
+[
+ {
+   "id": 1,
+   "model" : "Edge",
+   "make": "Ford",
+   "photo": "img/edge.jpg"
+ },{
+   "id": 2,
+   "model" : "Escape",
+   "make": "Ford",
+   "photo": "img/escape.jpg"
+ },{
+   "id": 3,
+   "model" : "ILX",
+   "make": "Acura",
+   "photo": "img/ilx.png"
+ },{
+   "id": 4,
+   "model" : "MDX",
+   "make": "Acura",
+   "photo": "img/mdx.jpg"
+ }
+]

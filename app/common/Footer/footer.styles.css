@@ -1,0 +1,28 @@
+.footerMain {
+  text-align: center;
+  background: rgb(18, 17, 17);
+  color: #f7f7f7;
+  padding: 15px;
+  margin-top: 3em;
+}
+
+.footerMain h2 {
+  margin: 0;
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.footerMain ul {
+  text-align: left;
+  width: 40%;
+  display: inline-block;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.footerMain ul li {
+  padding: 5px;
+  list-style-type: none;
+}
